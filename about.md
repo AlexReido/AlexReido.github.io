@@ -5,7 +5,7 @@ title: About Me
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-I'm Alex and this I'll be using this site to showcase work I have done whether that's projects or blog posts I have written. I studied Computer Science at the University of Exeter, in particular I enjoy the areas of Data Science, Evolutionary algorithms and Multi-objective optimisation. I like running (I have done the Bath Half twice) as well as tennis and orienteering. This blog will mainly contain development projects I have completed alongside any blog posts I come up with - probably about effective altruism, environmentalism and current affairs.
+I'm Alex and this I'll be using this site to showcase work I have done whether that's projects or blog posts I have written. I studied Computer Science at the University of Exeter, in particular I enjoy the areas of Data Science, Evolutionary algorithms and Multi-objective optimisation. My final year project is on Multi-modal Multi-objective optimisation. I like running (I have done the Bath Half twice) as well as tennis and orienteering. This blog will mainly contain development projects I have completed alongside any blog posts I come up with - probably about effective altruism, environmentalism and current affairs.
 
 ### Volunteering
 
